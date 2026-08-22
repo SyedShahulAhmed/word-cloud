@@ -13,7 +13,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 
 ## 📛Github Usernames📛
 
-![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-5-informational?labelColor=003995)
+![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-6-informational?labelColor=003995)
 ![Word Cloud Contributors Badge](https://img.shields.io/badge/Cloud%20Contributors-1-blueviolet?labelColor=25004e)
 
 <img src="https://raw.githubusercontent.com/SyedShahulAhmed/word-cloud/main/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
