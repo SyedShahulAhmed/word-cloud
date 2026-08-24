@@ -1,13 +1,24 @@
-<h3>
-     
-#
-<!--✏️WORDBOARD  --> 
-<h2 align="center">
-Join the Word Cloud Board :cloud: :pencil2:
+# ☁️ Join the Word Cloud Board ✏️
 
-### :thought_balloon: [Add your name](https://github.com/SyedShahulAhmed/word-cloud/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E) to see the word cloud update in real time :rocket:
+### 💭 Leave Your Mark
 
-:star2: Don't like the arrangement? [Regenerate it](https://github.com/SyedShahulAhmed/word-cloud/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle) :game_die:
+Add your name, a favorite word, or a short thought and watch it appear in the community word cloud in real time.
+
+🚀 **Contribute here:**
+[➕ Add Your Word](https://github.com/SyedShahulAhmed/word-cloud/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E)
+
+---
+
+### 🎲 Shuffle the Cloud
+
+Not a fan of the current layout?
+
+✨ **Generate a fresh arrangement:**
+[🔄 Regenerate the Word Cloud](https://github.com/SyedShahulAhmed/word-cloud/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle)
+
+---
+
+🌟 Every contribution helps shape the cloud. Add yours and become part of the board!
 
 <div align="center">
 
